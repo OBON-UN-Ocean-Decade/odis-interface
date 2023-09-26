@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://website.org/path/to/metadata-file-1.json</loc>
+  </url>
+  <url>
+    <loc>https://website.org/path/to/metadata-file-2.json</loc>
+  </url>
+  <url>
+    <loc>https://website.org/path/to/metadata-file-3.json</loc>
+  </url>
+  <url>
+    <loc>https://website.org/path/to/metadata-file-4.json</loc>
+  </url>
+</urlset>
